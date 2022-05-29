@@ -1,6 +1,7 @@
 ### Hey👋
 
 🔭 Interactive Media Designer in progress
+
 👯 Currently learning Typescript, Javascript and Java
 
 <div align="center">
