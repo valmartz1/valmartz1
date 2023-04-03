@@ -2,7 +2,7 @@
 
 🔭 Interactive Media Designer in progress
 
-👯 Currently learning Typescript, Javascript and Java
+👯 Currently learning JavaScript, HTML and CSS
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif" width="600" height="300"/>
