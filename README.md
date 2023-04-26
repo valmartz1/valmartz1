@@ -5,10 +5,10 @@
 ### 👯 Passionate about UX and UI design
 
 ## 💻 Currently learning
-#### JavaScript
-#### HTML
-#### CSS
+### JavaScript
+### HTML
+### CSS
 
 ## 🤍 Let’s connect
-https://www.linkedin.com/in/valeria-martinez-483150251/
-https://www.behance.net/valeriamartinez11
+### https://www.linkedin.com/in/valeria-martinez-483150251/
+### https://www.behance.net/valeriamartinez11
