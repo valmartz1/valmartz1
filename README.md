@@ -1,6 +1,6 @@
 # Hey there! 👋
 ### 🔭 Interactive Media Designer in progress
-### Based in Cali, Colombia
+### 📌 Based in Cali, Colombia
 
 ### 👯 Passionate about UX and UI design
 
